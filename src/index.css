@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #ccc;
+}
+
+
+/* .glass{
+    background-color: rgba(255, 255, 255, 0.55);
+ border : 1px solid rgba(255, 255, 255, 0.3);
+
+} */
